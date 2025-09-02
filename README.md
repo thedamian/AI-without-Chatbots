@@ -10,3 +10,6 @@ https://docs.google.com/presentation/d/1KPNZQNOGFbohyAG-mlG-3FXlEK7KCp7rWTfxCwhW
 
 ## Data Sets used:
 - [Amazon Reviews](https://www.kaggle.com/datasets/mehmetisik/amazon-review/data)
+
+## Referenced Links
+- [DotNet Smart Components](https://devblogs.microsoft.com/dotnet/introducing-dotnet-smart-components/)
